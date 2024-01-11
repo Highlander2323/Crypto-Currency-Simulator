@@ -1,0 +1,44 @@
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Crypto Currency Simulator.exe
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Crypto Currency Simulator.deps.json
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Crypto Currency Simulator.runtimeconfig.json
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Crypto Currency Simulator.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Crypto Currency Simulator.pdb
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.csproj.AssemblyReference.cache
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.csproj.GenerateResource.cache
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.AssemblyInfoInputs.cache
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.AssemblyInfo.cs
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.csproj.CoreCompileInputs.cache
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.dll
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\refint\Crypto Currency Simulator.dll
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.pdb
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.genruntimeconfig.cache
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\ref\Crypto Currency Simulator.dll
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto_Currency_Simulator.CryptoCurrencySimulator.resources
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto Currency Simulator.csproj.CopyComplete
+E:\Apps\Crypto Currency Simulator\obj\Debug\net6.0-windows\Crypto_Currency_Simulator.Properties.Resources.resources
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\ScottPlot.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\Apps\Crypto Currency Simulator\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
